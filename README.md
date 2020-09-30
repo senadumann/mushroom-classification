@@ -1,4 +1,4 @@
-# Is it safe to eat or deadly poisonous ?
+# Is it safe to eat or poisonous ?
 ![enter image description here](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1200,h_565/https://sinaiem.org/wp-content/uploads/2017/01/4621095823-1200x565.jpg)
 ## Files
 
