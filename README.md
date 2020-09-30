@@ -1,5 +1,6 @@
 # Is it safe to eat or poisonous ?
 ![enter image description here](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1200,h_565/https://sinaiem.org/wp-content/uploads/2017/01/4621095823-1200x565.jpg)
+In this project we will make a model to predict the mushrooms is poisonous or edible using the data more than 8000 mushrooms with 22 different features from 2 classes.
 ## Files
 
  - *mushrooms.csv* taken from [kaggle.com](https://www.kaggle.com/uciml/mushroom-classification) 
@@ -8,8 +9,6 @@
 
 
 ## Data Descriptions
-We have the data of more than 8000 mushrooms with 22 different features from 2 classes.
-
  - **classes: edible=e, poisonous=p**
  -   cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s  
  -   cap-surface: fibrous=f,grooves=g,scaly=y,smooth=s    
